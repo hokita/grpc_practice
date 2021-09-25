@@ -1,11 +1,10 @@
-# grpc_practice
+# grpc_sample
+cf. https://grpc.io/docs/languages/go/quickstart/
 
 ## server start
 ```shell
 $ go run server/main.go
 ```
-
-cf. https://grpc.io/docs/languages/go/quickstart/
 
 ## client start
 ```shell
